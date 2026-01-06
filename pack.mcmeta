@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "min_format": 15,
+    "max_format": 94.1,
+    "supported_formats": [15, 94.1],
+    "description": "Leodroid's Sleep datapack v1"
+  }
+}
