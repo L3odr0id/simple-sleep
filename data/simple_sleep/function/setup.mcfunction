@@ -3,4 +3,3 @@ execute unless data storage simple_sleep:config percent run data modify storage 
 
 # 2. Run the apply function using the data from storage as a 'macro' source
 function simple_sleep:apply_config with storage simple_sleep:config
-

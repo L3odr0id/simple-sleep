@@ -15,7 +15,7 @@ It sets the percentage of players required to sleep.
 
 - To check current value run:
 
-  `/gamerule playersSleepingPercentage`
+  `/gamerule players_sleeping_percentage`
 
 ## Installation
 1. Download the `.zip` from the releases page
